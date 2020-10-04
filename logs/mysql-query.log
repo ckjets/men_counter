@@ -1,0 +1,54 @@
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-09-30T01:10:18.432183+09:00	    7 Connect	
+2020-09-30T01:10:18.433141+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-09-30T01:10:18.441499+09:00	    7 Quit	
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-10-04T12:03:23.368245+09:00	    7 Connect	
+2020-10-04T12:03:23.369534+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-10-04T12:03:23.379868+09:00	    7 Quit	
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-10-04T13:16:29.147326+09:00	    7 Connect	
+2020-10-04T13:16:29.151307+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-10-04T13:16:29.156914+09:00	    7 Quit	
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-10-04T13:19:07.664842+09:00	    7 Connect	
+2020-10-04T13:19:07.665940+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-10-04T13:19:07.671771+09:00	    7 Quit	
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-10-04T14:21:50.542834+09:00	    7 Connect	
+2020-10-04T14:21:50.544295+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-10-04T14:21:50.550674+09:00	    7 Quit	
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-10-04T14:22:17.176749+09:00	    7 Connect	
+2020-10-04T14:22:17.177903+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-10-04T14:22:17.183490+09:00	    7 Quit	
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-10-04T14:26:00.442975+09:00	    7 Connect	
+2020-10-04T14:26:00.443705+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-10-04T14:26:00.449225+09:00	    7 Quit	
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-10-04T17:23:49.438759+09:00	    7 Connect	
+2020-10-04T17:23:49.439928+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-10-04T17:23:49.446385+09:00	    7 Quit	
+/usr/sbin/mysqld, Version: 8.0.16 (MySQL Community Server - GPL). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2020-10-04T18:03:55.081377+09:00	    7 Connect	
+2020-10-04T18:03:55.082826+09:00	    7 Query	SELECT @@skip_networking, @@skip_name_resolve, @@have_ssl='YES', @@ssl_key, @@ssl_ca, @@ssl_capath, @@ssl_cert, @@ssl_cipher, @@ssl_crl, @@ssl_crlpath, @@tls_version
+2020-10-04T18:03:55.090473+09:00	    7 Quit	
